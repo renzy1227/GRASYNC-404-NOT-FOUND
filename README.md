@@ -1,4 +1,4 @@
-# GRASYNC-404-NOT-FOUND
+# GRADESYNC-404-NOT-FOUND
 🚀 Overview
 
 GradeSync automates the manual grading of assignments and descriptive answers using AI-based evaluation and feedback.
